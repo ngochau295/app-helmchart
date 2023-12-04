@@ -8,7 +8,7 @@ image:
   repository: ngochau/demo-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.13"
+  tag: "v1.14"
 
 imagePullSecrets: []
 nameOverride: ""
